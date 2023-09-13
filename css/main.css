@@ -134,7 +134,7 @@ ul li a:hover {
 .btn {
     width: 200px;
     padding: 16px;
-    background: rgba(5, 197, 255, 0.7);
+    background: rgba(23, 200, 112, 0.7);
     text-transform: uppercase;
     font-size: 14px;
     outline: none;
@@ -165,10 +165,10 @@ iframe {
 }
 /* footer */
 footer {
-    background: #000;
+    background: #12d5ae;
     padding: 30px;
     text-align: center;
-    color: #fff;
+    /* color: #fff; */
 }
 
 @media(max-width: 768px) {
