@@ -38,7 +38,7 @@ ul li a {
 
 ul li a:hover {
     text-decoration: underline;
-    text-decoration-color: red;
+    text-decoration-color: rgb(114, 180, 228);
 }
 
 .box-header {
@@ -52,7 +52,7 @@ ul li a:hover {
     width: 200px;
     padding: 15px;
     border:none;
-    background:rgba(0, 191, 255, 0.9);
+    background:rgba(215, 165, 12, 0.9);
     color:#fff;
     font-size: 15px;
     text-transform: uppercase;
